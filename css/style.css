@@ -15,7 +15,7 @@ body{
     height:75%;
 }
 .header{
-    background-image: url(/img/header-bg1.png);
+    background-image: url(../img/header-bg1.png);
     background-repeat: no-repeat;
     height: 550px;
 }
@@ -25,7 +25,7 @@ body{
 }
 
 .biograpghy{
-    background-image: url(/img/biography-bg.png);
+    background-image: url(../img/biography-bg.png);
     background-repeat: no-repeat;
     height: 820px;
 }
@@ -69,7 +69,7 @@ h3{
 
 .latest-work{
     height: 600px;
-    background-image: url(/img/latest-work-bg.png);
+    background-image: url(../img/latest-work-bg.png);
     background-repeat: no-repeat;
     background-position: -400px -130px ;
 }
