@@ -17,7 +17,6 @@ body{
 .header{
     background-image: url(/img/header-bg1.png);
     background-repeat: no-repeat;
-    border: 2px solid red;
     height: 550px;
 }
 .header img{
@@ -28,7 +27,6 @@ body{
 .biograpghy{
     background-image: url(/img/biography-bg.png);
     background-repeat: no-repeat;
-    border: 2px solid blue;
     height: 820px;
 }
 
@@ -71,7 +69,6 @@ h3{
 
 .latest-work{
     height: 600px;
-    border: 2px solid red;
     background-image: url(/img/latest-work-bg.png);
     background-repeat: no-repeat;
     background-position: -400px -130px ;
